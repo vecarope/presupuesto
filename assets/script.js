@@ -1,8 +1,7 @@
-// Variables para presupuesto y gastos
 let presupuesto = 0;
 let gastos = [];
 
-// Variables para elementos del DOM
+
 const presupuestoElement = document.getElementById('presupuesto');
 const gastosTotalElement = document.getElementById('gastos-total');
 const saldoElement = document.getElementById('saldo');
